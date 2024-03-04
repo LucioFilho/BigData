@@ -59,3 +59,9 @@
 
 **Environmental Monitoring**: 
 └── Big data is used to track environmental changes, predict weather patterns, and support conservation efforts by analyzing data from satellites and sensor networks.
+
+**Author:** [***Lúcio José Patrocínio Filho***](mailto:designer.jose.patrocinio@gmail.com)
+
+Sources: 
+
+Ladrero, Iñaki. [**10 ejemplos de usos reales de Big Data Analytics, 2017.**](https://www.baoss.es/10-ejemplos-usos-reales-big-data/)

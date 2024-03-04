@@ -31,7 +31,7 @@
     └── The gestalt principles of design — such as similarity, continuity, and closure — play a crucial role in how data is visualized and interpreted in a smart city context. By applying these principles, cities can present complex data in a way that is easily understandable, helping citizens and decision-makers perceive patterns and relationships within the urban environment.
 
 **Descriptive, Analytical, and Projects in Urban Planning**
-    └── Urban planning within smart cities encompasses descriptive (what is), analytical (why), and projective (what could be) dimensions. **Big Data Analytics** provide a descriptive view of current city conditions, from traffic patterns to energy usage. Analytical insights help understand the underlying causes of urban challenges, while projective analytics propose future scenarios and solutions.
+    └── Urban planning within smart cities encompasses descriptive (what is), analytical (why), and projective (what could be) dimensions. **Big Data Analytics** provides a descriptive view of current city conditions, from traffic patterns to energy usage. Analytical insights help understand the underlying causes of urban challenges, while projective analytics propose future scenarios and solutions.
 
 **Visual and Physical Permeability in Smart Environments**
     └── Visual and physical permeability refers to the ease with which people can see and move through different parts of the city. Smart city design uses data to optimize pathways and sightlines, enhancing navigability and making cities more accessible and inclusive.
